@@ -1,2 +1,2 @@
 # To-do-App
-Web application
+Web application with the login authentication using MERN stack.
